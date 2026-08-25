@@ -32,7 +32,7 @@ This laboratory activity focuses on investigating the basic components of cloud 
 - `df -h`
 - `df -T`
 - `hostname`
-- `ip a`
+- `hostname -I`
 
 ## Skills Learned
 - Investigating a Linux server using basic commands
