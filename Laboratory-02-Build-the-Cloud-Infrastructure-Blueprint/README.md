@@ -30,7 +30,7 @@ This laboratory activity focuses on investigating the basic components of cloud 
 - `nproc`
 - `free -h`
 - `df -h`
-- `lsblk`
+- `df -T`
 - `hostname`
 - `ip a`
 
