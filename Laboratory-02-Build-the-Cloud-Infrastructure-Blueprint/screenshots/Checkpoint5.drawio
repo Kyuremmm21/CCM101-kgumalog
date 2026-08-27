@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Fnu7o71rEU7MKImaqyLk">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internet" vertex="1">
+          <mxGeometry height="60" width="120" x="353" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413" y="290" as="sourcePoint" />
+            <mxPoint x="413" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="120" x="353" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="430" />
+            </Array>
+            <mxPoint x="413" y="410" as="sourcePoint" />
+            <mxPoint x="413" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Virtual Network(VPC)" vertex="1">
+          <mxGeometry height="60" width="240" x="293" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="412.47" y="540" />
+            </Array>
+            <mxPoint x="412.47" y="560" as="sourcePoint" />
+            <mxPoint x="412.47" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="293" y="570" as="sourcePoint" />
+            <mxPoint x="533" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Virtual Machine&lt;div&gt;(Compute)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="233" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cloud Storage&lt;div&gt;(Storage)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="473" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="590" />
+            </Array>
+            <mxPoint x="293" y="570" as="sourcePoint" />
+            <mxPoint x="293" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ-LsjtIv-Y04V3soT2o-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="590" />
+            </Array>
+            <mxPoint x="533" y="570" as="sourcePoint" />
+            <mxPoint x="533" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
