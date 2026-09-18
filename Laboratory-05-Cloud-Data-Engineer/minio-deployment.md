@@ -8,6 +8,7 @@ docker run -d \
   -e "MINIO_ROOT_USER=cloudadmin" \
   -e "MINIO_ROOT_PASSWORD=CloudNova2026" \
   quay.io/minio/minio server /data --console-address ":9001"
+```
 
 ## Web Console Port
 The MinIO Web Console was accessed using port 9001.
